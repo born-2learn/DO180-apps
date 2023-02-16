@@ -1,2 +1,3 @@
-# DO180-apps
-DO180 Repository for Sample Applications
+# RedHat OpenShift
+
+A repo to learn more about OpenShift and Container Orchestration.
